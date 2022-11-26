@@ -1,0 +1,11 @@
+.browse-music {
+    padding: 20px;
+    background-color: hwb(192 95% 3% / 0.986);
+}
+
+.browse-music-row-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 15px;   
+}
